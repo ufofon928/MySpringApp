@@ -16,7 +16,7 @@ public class MyAppApplication {
 	@RequestMapping("/")
 	public  String  hello()
 	{
-		return  "Hello ";
+		return  "Hello  kbs king";
 	}
 
 }
